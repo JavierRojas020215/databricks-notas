@@ -26,3 +26,6 @@ Navegar por la jerarquía de Unity Catalog (catálogo → esquema → volumen).
 Previsualizar datos CSV sin procesar mediante `read_files`.
 Crear una tabla Delta utilizando `CREATE TABLE AS SELECT`.
 Verificar tablas tanto mediante SQL como en el Explorador de catálogos (Catalog Explorer).
+
+# Nota de las lecciones
+[notas](https://dbc-c87532b8-b665.cloud.databricks.com/editor/notebooks/2952537475081909?o=7474650238331700)
